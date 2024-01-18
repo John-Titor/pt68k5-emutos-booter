@@ -1,0 +1,9 @@
+general:
+  ✔ build system @done (24-01-17 23:10)
+  ☐ deployment tools
+lib:
+  ✔ import fmt from old ROM @done (24-01-17 23:10)
+boot1:
+  ✔ move prototypes out into headers @done (24-01-17 20:04)
+  ✔ switch to using fmt instead of EmuTOS printf @done (24-01-17 23:10)
+  ✔ adopt fatfs code @done (24-01-17 23:10)
